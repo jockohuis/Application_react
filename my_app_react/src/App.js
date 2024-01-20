@@ -9,14 +9,9 @@ function App() {
         <p>
           hello de react.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        
           vous pouvez aussi apprendre le git et github
-        </a>
+        
       </header>
     </div>
   );
